@@ -14,3 +14,6 @@ The go to `vim/bundle` and run:
 ```
 git clone https://github.com/tpope/vim-commentary
 ```
+
+Note - after this, go ahead and delete the `.git` directory (or hide it).
+Putting it under version control is silly!
